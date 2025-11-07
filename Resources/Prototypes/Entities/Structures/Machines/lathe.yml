@@ -575,7 +575,6 @@
     #- ScienceBoardsStatic - Goobstation - Moved to Scifab
     - ServiceBoardsStatic
     - CargoBoardsStatic
-    - PrinterDocMachineCircuitboard
     #- MedicalBoardsStatic - Goobstation - Moved to Scifab and Medfab
     #- EngineeringBoardsStatic - Goobstation - Moved to Scifab and Engifab
     - CircuitFloorsStatic
