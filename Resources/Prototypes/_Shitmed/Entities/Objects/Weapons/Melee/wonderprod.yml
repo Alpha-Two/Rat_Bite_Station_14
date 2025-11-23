@@ -102,7 +102,7 @@
           proto: Cablecuffs
 
       sleep: !type:ItemSwitchState
-        verb: sleep
+        verb: weh
         sprite:
           sprite: _Shitmed/Objects/Weapons/Melee/wonderprod.rsi
           state: sleep-icon
@@ -117,7 +117,7 @@
           animation: WeaponArcThrust
         - type: InjectOnHit
           reagents:
-          - ReagentId: Nocturine
+          - ReagentId: JuiceThatMakesYouWeh
             Quantity: 5
           limit: 20               # Because of this limit and the 3s sleep per 0.5u of noct inducement the max ammount of time
           needsRestrain: true

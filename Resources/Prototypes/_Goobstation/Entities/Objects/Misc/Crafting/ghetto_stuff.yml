@@ -458,8 +458,8 @@
         Piercing: 0.40 # Ratbite edit for increased gun dam
         Heat: 0.6
   - type: ClothingSpeedModifier #Ratbite addition for balance, this being just as good as sec gear needs a downside
-    walkModifier: 0.50
-    sprintModifier: 0.50
+    walkModifier: 0.70
+    sprintModifier: 0.70
   - type: ExplosionResistance
     damageCoefficient: 0.8
   - type: ModifyDelayedKnockdown
